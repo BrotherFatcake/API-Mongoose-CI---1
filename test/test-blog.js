@@ -69,22 +69,6 @@ function seedTestData() {
     };
 
 
-
-//**ADDITIONAL OPTIONAL FUNCTIONS USED TO CREATE DATA FAKER ISN'T ABLE TO PRODUCE - ADD AS NEEDED**
-
-//create generate data function2 with no args
-
-//create const of <DB fieldName> array ['data1','data2','data3']
-
-//return <DB fieldName> as array position of 'x'
-	//'x' = Math floor of Math random * <DB fieldName> array length
-	//can also return object containing value of above and generated faker data
-	// {key5: faker.dataSet.dataType(), key6: <DB fieldName> array const
-
-//**END OPTIONAL AS NEEDED FUNCTIONS
-
-
-
 //DB TEAR DOWN and BEFORE/AFTER FUNCTIONS
 
 //create tear down function with no args
