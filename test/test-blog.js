@@ -432,6 +432,6 @@ describe('DELETE test', function()  {
             })
         })
     })    
-})
+});
 
 });
